@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cartelera2.xslt"?>
+<cartelera>
+	<pelicula>
+		<portada>img/maridos.jpg</portada>
+		<titulo>Mari(dos)</titulo>
+		<descripción>
+			<directores>Paco León, Celia Freijeiro, María Córdoba, Marta Costa, Ernesto Alterio</directores>
+			<actores>Paco León</actores>
+			<sinopsis>Toni (Paco León) y Emilio (Ernesto Alterio) reciben la misma trágica llamada: sus mujeres están en coma tras un alud en una estación de esquí. Cuando se presentan en el mostrador de admisiones del hospital de montaña hacen un sorprendente descubrimiento: sus mujeres son, en realidad, la misma persona, Laura (Celia Freijeiro). Durante años, Laura ha llevado en secreto vidas paralelas, una salvaje montaña rusa a caballo entre sus dos familias. Obligados a convivir hasta que Laura despierte y pueda ser trasladada, Emilio y Toni luchan por demostrar quién de los dos es el único y auténtico marido.</sinopsis>
+			<trailer>
+				<url>https://youtu.be/rI7OvhsKtKc</url>
+			</trailer>
+		</descripción>
+		<detalles>
+			<duración>1h 42m</duración>
+			<fecha_de_estreno>10 marzo 2023</fecha_de_estreno>
+			<tipo>Comedia</tipo>
+		</detalles>
+	</pelicula>
+	<pelicula>
+		<portada>img/shazam.jpg</portada>
+		<titulo>¡Shazam! La furia de los dioses</titulo>
+		<descripción>
+			<directores>David F. Sandberg</directores>
+			<actores>Rachel Zegler, Helen Mirren, Adam Brody, Zachary Levi, Jack Dylan Grazer, Asher Angel, Marta Milans, Lucy Liu</actores>
+			<sinopsis>Continúa la historia del joven Billy Batson que, al decir la palabra mágica "¡SHAZAM!", se transforma en su alter-ego de superhéroe, Shazam.</sinopsis>
+			<trailer>
+				<url>https://youtu.be/DRZjKnUU0go</url>
+			</trailer>
+		</descripción>
+		<detalles>
+			<duración>2h 10m</duración>
+			<fecha_de_estreno>17 marzo 2023</fecha_de_estreno>
+			<tipo>Comedia,acción,aventura</tipo>
+		</detalles>
+	</pelicula>
+</cartelera>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cartelera5.xslt"?>
+<formulario>
+	<titulo>¡Si aciertas te llevas una entrada gratis!</titulo>
+	<preguntas>
+		<pregunta>
+			<texto>¿Cuál ha sido la pelicula más vista el último mes?</texto>
+			<opciones>
+				<opcion correcta="false">Tarzan</opcion>
+				<opcion correcta="true">Mari(dos)</opcion>
+				<opcion correcta="false">Shazam</opcion>
+				<opcion correcta="false">El gato con botas</opcion>
+			</opciones>
+		</pregunta>
+		<pregunta>
+			<texto>¿Cuál crees que será la próxima película que se va a estrenar?</texto>
+			<opciones>
+				<opcion correcta="false">Blancanieves</opcion>
+				<opcion correcta="true">El asesino</opcion>
+				<opcion correcta="false">Gladiador</opcion>
+				<opcion correcta="false">Dioses y reyes</opcion>
+			</opciones>
+		</pregunta>
+	</preguntas>
+	<boton>Enviar</boton>
+</formulario>
